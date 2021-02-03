@@ -32,7 +32,7 @@ for line in sys.stdin:
     # Get the fields
     chromosome = valueList[0]
     genomicPositionStart = valueList[1]
-    genomicPositionend = valueList[2]
+    genomicPositionEnd = valueList[2]
     cytoLocation = valueList[3]
     computedCytoLocation = valueList[4]
     mimNumber = valueList[5]
