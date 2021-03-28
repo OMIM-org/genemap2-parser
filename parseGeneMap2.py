@@ -69,6 +69,7 @@ for line in sys.stdin:
             if inheritances:
                 for inheritance in inheritances.split(','):
                     inheritance = inheritance.strip()
+
         # Short phenotype
         else:
 
