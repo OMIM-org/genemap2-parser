@@ -5,7 +5,7 @@ This script demonstrates how to parse the genemap2.txt file that can be download
 [OMIM](https://omim.org/). Note that while it parses out every field in the file it 
 doesn't output anything.
 
-The file can downloaded from [OMIM Downloads](https://omim.org/downloads)
+The genemap2.txt file can downloaded from [OMIM Downloads](https://omim.org/downloads)
 (registration required).
 
 Sample Use:
